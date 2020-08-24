@@ -17,6 +17,10 @@ public class DataTypes {
 
         String myLastName = "Hostler";
 
+        myFirstName = "Jamie";
+
+        myLastName = "Hostler";
+
         System.out.println("My first name is Rey");
 
         System.out.println("First value of singleCharacter: " + singleCharacter);
